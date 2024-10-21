@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @gabbyadjei1 (Gabriel Adjei Mensah); Astute IT Professional with over 13 years of experience in various capacities as  IT Team Lead, Senior Systems Administrator, Application Support Engineer (Core-Banking), System Analyst, Network Administrator, and Technical Support. I have strong analytical, troubleshooting, and problem-solving, and very passionate about system security. I am very resourceful, curious, inquisitive, and adaptive, I enjoy braking and finding solutions to errors.
+- 👋 Hi, I’m @gabbyadjei1 (Gabriel Adjei Mensah); Seasoned IT professional with 14 years as Senior Systems Administrator, transitioning to Cybersecurity. Expert in managing complex IT infrastructures, identifying vulnerabilities, and implementing security measures. Top 100 on HackTheBox, top 200 on CyberDefenders, top 2% on TryHackMe. Successful bug hunter on HackerOne. Combines system administration expertise with advanced cybersecurity skills to fortify defenses, analyze attack vectors, and develop security strategies. Applies cutting-edge tactics to bridge traditional IT and modern cybersecurity, staying ahead of evolving threats I am very resourceful, curious, inquisitive, and adaptive, I enjoy braking and finding solutions to errors.
 
 - 👀 I’m interested in Cyber Security.
-- 🌱 I’m currently studying for CompTIA Sec + and HTB Certified Penetration Testing Specialist.
+- 🌱 I’m currently studying for Certified CyberDefender (CCD), MTIA - Mosse Certified Threat Intelligence Analyst and Microsoft Certified: Security Operations Analyst Associate 
 - 💞️ I’m looking to start a career in Cyber Security.
 - 📫 How to reach me gabbyadjei1@outlook.com
 
