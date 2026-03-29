@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @gabbyadjei1 (Gabriel Adjei Mensah); Seasoned IT professional with 17+ years as Senior Systems Administrator, transitioning to Cybersecurity. Expert in managing complex IT infrastructures, identifying vulnerabilities, and implementing security measures. Top 100 on HackTheBox, top 200 on CyberDefenders, top 2% on TryHackMe. Successful bug hunter on HackerOne. Combines system administration expertise with advanced cybersecurity skills to fortify defenses, analyze attack vectors, and develop security strategies. Applies cutting-edge tactics to bridge traditional IT and modern cybersecurity, staying ahead of evolving threats I am very resourceful, curious, inquisitive, and adaptive, I enjoy braking and finding solutions to errors.
+- 👋 Hi, I’m @gabbyadjei1 (Gabriel Adjei Mensah); Cybersecurity Specialist with Extensive IT Expertise, With 17+ years of experience in systems administration and cybersecurity, I have mastered the management of complex IT infrastructures, leading high-performing teams, and mitigating advanced threats,particularly in regulated financial environments. I specialize in identifying vulnerabiliNes, implemenNng robust security soluNons,and developing proacNve strategies to counter evolving threats. Ranked in the Top 100 on HackTheBox, with proven track record
+as a bug hunter on HackerOne. Resourceful problem-solver with experNse in bridging tradiNonal IT operaNons with modern
+security pracNces to deliver resilient, compliant infrastructures
 
 - 👀 I’m interested in Cyber Security.
-- 🌱 I’m currently studying for Certified CyberDefender (CCD), MTIA - Mosse Certified Threat Intelligence Analyst and Microsoft Certified: Security Operations Analyst Associate 
-- 💞️ I’m looking to start a career in Cyber Security.
+- 🌱 I’m currently studying for Certified Information Systems Security Professional (CISSP), CompTIA SecurityX (Cybersecurity Architect) and Certified Information Security Manager (CISM)
+- 💞️ I’m looking to relocate to South Africa on Critical Skills Work Visa.
 - 📫 How to reach me gabbyadjei1@outlook.com
 
 <!---
